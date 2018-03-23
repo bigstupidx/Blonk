@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Balls
+  - Floor
+  - Blocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 305104681
+    locked: 0
+  - name: Bg Particles
+    uniqueID: 3924650203
+    locked: 0
+  - name: Glow
+    uniqueID: 1411230583
+    locked: 0
+  - name: Block
+    uniqueID: 3434076289
+    locked: 0
+  - name: Highlight
+    uniqueID: 1553777769
+    locked: 0
+  - name: Shadow
+    uniqueID: 303742725
+    locked: 0
+  - name: HitAnim
+    uniqueID: 3616500925
+    locked: 0
+  - name: HitsText
+    uniqueID: 2712921553
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FireButtonBg
+    uniqueID: 1181108243
+    locked: 0
+  - name: FireButton
+    uniqueID: 864296205
+    locked: 0
+  - name: FireText
+    uniqueID: 4054269749
+    locked: 0
+  - name: StartMenu
+    uniqueID: 2055981985
+    locked: 0

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StartMenu.unity
+    guid: c6d351a77528cb147bbc07347d81c7e3
+  - enabled: 1
+    path: Assets/_Scenes/GameScene.unity
+    guid: cffbd0eb61aa555428311fa08025016a
+  - enabled: 1
+    path: Assets/_Scenes/PauseScene.unity
+    guid: ab61a0efaaaf4f14583f3e1b69a900cb
+  - enabled: 1
+    path: Assets/_Scenes/ContinueScene.unity
+    guid: 9fd1418e0a0c64d4288e5edafc20b855
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/MainMenu.unity
+    guid: 7c38a8c9adc9d5c4b869612e4033ead8
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/AccessTokenMenu.unity
+    guid: 67cb5b2387b8e4ec9b2fa69ad9510e9b
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/AppEvents.unity
+    guid: 68ab940fa15e34433bff18301686b080
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/AppInvites.unity
+    guid: 1beb7e4efae1b4e8d87bb52689540adf
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/AppLinks.unity
+    guid: 4ac12dfde6570493291366d0ab3eb20d
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/AppRequests.unity
+    guid: c2250c9c5cf00425384401321f8dffb4
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/DialogShare.unity
+    guid: 190c345841ecc464e9a122f04369757e
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/GraphRequest.unity
+    guid: 444ae7ddf432b457a97bfe42021075e3
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/LogView.unity
+    guid: c07ff0bf6bea74c2eb681ac0cae44265
+  - enabled: 0
+    path: Assets/FacebookSDK/Examples/Pay.unity
+    guid: 3ee189cdb21ea4bdb9d7022a0780c44c
